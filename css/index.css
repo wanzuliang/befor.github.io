@@ -5,8 +5,6 @@ body{
 	padding: 0;
 	margin: 0;
 	min-width: 990px;
-	/*background: #FbF;*/
-    /*background: #ebeced;*/
 	background: rgb(214, 218, 224);
 }
 div{
@@ -60,7 +58,6 @@ ul{
     text-align: center;
    	padding: 0 15px;
     line-height: 42px;
-    /*position: relative;*/
     transition: -42.85s background-color;
 }
 .rightline{
@@ -113,11 +110,9 @@ background-image:url(http://wanzuliang.top/com/pic/b-post-hover.png);
 	position: relative;
 	display: block;
 	margin: auto;
-	/*top: 30px;*/
 	width: 100%;
 	min-width: 990px;
 	height: 300px;
-	/*background: red;*/
 	z-index: 5;
 }
 .body-line{
@@ -146,10 +141,8 @@ background-image:url(http://wanzuliang.top/com/pic/b-post-hover.png);
 	display:block;
 	float: right;
 	margin: 20px auto;
-	/*padding: 10px;*/
 	width: 570px;
 	height: 280px;
-	/*background: green;*/
 	z-index: 25;
 }
 .six-pic{
@@ -256,7 +249,6 @@ background-image:url(http://wanzuliang.top/com/pic/b-post-hover.png);
 	padding: 10px;
 	height: 740px;
 	width: 960px;
-    /*background: #ebeced;*/
 	background: rgb(214, 218, 224);
 }
 .blog{
@@ -273,7 +265,6 @@ background-image:url(http://wanzuliang.top/com/pic/b-post-hover.png);
 .blog-pic{
 	width: 300px;
 	height: 240px;
-	/*overflow: hidden;*/
     border-radius: 10px;
 	background: #000;
 	cursor: pointer;
