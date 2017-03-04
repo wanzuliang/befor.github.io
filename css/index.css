@@ -89,7 +89,7 @@ ul{
     padding: 0;
     width: 58px;
     z-index: 5;
-    background: url(http://wanzuliang.top/com/pic/b-post.png) center center no-repeat;
+    background: url(../temp/com/pic/b-post.png) center center no-repeat;
     height: 48px;
     transition: -42.85s background-color;
     /*border-radius: 0 0 5px 5px;*/
@@ -102,7 +102,7 @@ ul{
 	background: rgba(255,255,255,0.5);
 }
 .pic:hover{
-background-image:url(http://wanzuliang.top/com/pic/b-post-hover.png);
+background-image:url(../temp/com/pic/b-post-hover.png);
 }
 
 /****************************************************************************************************/
