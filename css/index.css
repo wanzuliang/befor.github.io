@@ -58,7 +58,7 @@ ul{
     text-align: center;
    	padding: 0 15px;
     line-height: 42px;
-    transition: -42.85s background-color;
+    /*transition: -42.85s background-color;*/
 }
 .rightline{
 	float: right;
