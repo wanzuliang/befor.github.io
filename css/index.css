@@ -42,16 +42,16 @@ div{
     width: 980px;
     zoom: 1;
 }
+ul{
+    list-style: none;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
 .leftline{
 	float: left;
 	height: 42px;
 	font-size: 20px;
-}
-ul{
-	list-style: none;
-	display: block;
-	margin: 0;
-	padding: 0;
 }
 .leftline ul li{
 	float: left;
